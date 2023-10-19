@@ -1,0 +1,6 @@
+Saya menemukan di github resmi perbaikan masalahnya, solusinya ada di sini: ringkasannya Anda perlu memodifikasi file client.jsdinode_modules/whatsapp-web.js/src/client.js
+
+
+ubah baris 175 ganti ini:
+
+const INTRO_IMG_SELECTOR = 'div[role=\'textbox\']'; //'[data-icon=\'chat\']';

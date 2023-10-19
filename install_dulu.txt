@@ -1,0 +1,4 @@
+npm i whatsapp-web.js
+npm i qrcode-terminal
+npm install openai@^4.0.0
+npm install axios

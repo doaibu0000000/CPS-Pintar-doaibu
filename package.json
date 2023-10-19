@@ -1,0 +1,19 @@
+{
+  "name": "cps-pintar",
+  "version": "1.0.0",
+  "description": "Project CPS Pintar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "doaibu",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.5.1",
+    "openai": "^4.12.4",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.22.1"
+  }
+}
